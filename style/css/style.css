@@ -538,6 +538,10 @@ body{
         width: 100vw;
         height: 50vh;
     }
+    
+    .main-content .content-text-1, .main-content .content-text-2{
+        height: 60vh;
+    }
 
     .main-content .content-text-1 .content-container, .main-content .content-text-2 .content-container{
         padding-left: 20px;
